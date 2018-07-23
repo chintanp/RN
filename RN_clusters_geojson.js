@@ -1,4 +1,4 @@
-{
+var RN_Clusters = {
   "type": "FeatureCollection",
   "features": [
     {
